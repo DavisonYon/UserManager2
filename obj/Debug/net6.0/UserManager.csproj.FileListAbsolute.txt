@@ -1,0 +1,15 @@
+C:\Users\davison_yon\source\repos\UserManager\UserManager\bin\Debug\net6.0\UserManager.exe
+C:\Users\davison_yon\source\repos\UserManager\UserManager\bin\Debug\net6.0\UserManager.deps.json
+C:\Users\davison_yon\source\repos\UserManager\UserManager\bin\Debug\net6.0\UserManager.runtimeconfig.json
+C:\Users\davison_yon\source\repos\UserManager\UserManager\bin\Debug\net6.0\UserManager.dll
+C:\Users\davison_yon\source\repos\UserManager\UserManager\bin\Debug\net6.0\UserManager.pdb
+C:\Users\davison_yon\source\repos\UserManager\UserManager\obj\Debug\net6.0\UserManager.csproj.AssemblyReference.cache
+C:\Users\davison_yon\source\repos\UserManager\UserManager\obj\Debug\net6.0\UserManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davison_yon\source\repos\UserManager\UserManager\obj\Debug\net6.0\UserManager.AssemblyInfoInputs.cache
+C:\Users\davison_yon\source\repos\UserManager\UserManager\obj\Debug\net6.0\UserManager.AssemblyInfo.cs
+C:\Users\davison_yon\source\repos\UserManager\UserManager\obj\Debug\net6.0\UserManager.csproj.CoreCompileInputs.cache
+C:\Users\davison_yon\source\repos\UserManager\UserManager\obj\Debug\net6.0\UserManager.dll
+C:\Users\davison_yon\source\repos\UserManager\UserManager\obj\Debug\net6.0\refint\UserManager.dll
+C:\Users\davison_yon\source\repos\UserManager\UserManager\obj\Debug\net6.0\UserManager.pdb
+C:\Users\davison_yon\source\repos\UserManager\UserManager\obj\Debug\net6.0\UserManager.genruntimeconfig.cache
+C:\Users\davison_yon\source\repos\UserManager\UserManager\obj\Debug\net6.0\ref\UserManager.dll
